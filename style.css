@@ -151,4 +151,15 @@
 .navbar-right li{
     text-align: center;
 }
+.sped1 {
+    overflow: hidden;            /* clip the excess when child gets bigger than parent */
+  }
+  .sped1 img {
+    
+    transition: transform .4s;   /* smoother zoom */
+  }
+  .sped1:hover img {
+    transform: scale(1.2);
+    transform-origin: 50% 50%;
+  }
 
