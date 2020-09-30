@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+*{
+    scroll-behavior: smooth;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.navbardiv .container .navbar-brand{
+    font-size: 30px;
+    font-weight: 800;
+}
+.navbardiv .container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/* .navdiv{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navdiv .col-md-6{
+    font-size: 30px;
+    font-weight: 800;
+}
+.navdiv .col-md-1, .col-md-2{
+    font-size: 15px;
+    font-weight: 700; */
+}
+.textdiv{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.textdiv .col-md-12 h1{
+    color: blue;
+}
+.spacediv{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.aboutdiv h2{
+    line-height: 45px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.aboutdiv h5{
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.aboutdiv p{
+    line-height: 34px;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    /* font-weight: 600; */
+}
+.about-text-left a {
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    background: blue;
+    padding: 15px;
+    /* float: right; */
+    text-decoration: none;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+.aboutdivmain .col-md-3 h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+.aboutdivmain .col-md-3 h5{
+    line-height: 35px;
+    font-size: 16px;
+     padding-top: 20px;
+     /* padding-bottom: 80px;     */
+}
+.aboutdivmain .col-md-3 h5:hover{
+  color: blue;
+}
+.serdivmain h2{
+    padding-bottom: 70px;
+}
+.serdivmain .col-md-12 .col-md-4 h3{
+    font-size: 30px;
+    font-weight: 800;
+}
+.serdivmain .col-md-12 .col-md-4 h3:hover{
+    color: blue;
+}
+.serdivmain .col-md-12 .col-md-4 p{
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 00;  
+}
+.serdivmain2 .col-md-3 h3{
+    font-size: 30px;
+    font-weight: 800;
+}
+.serdivmain2 .col-md-3 h3:hover{
+    color: blue;
+}
+.workmain h2{
+    padding-bottom: 70px;
+}
+.workmain .col-md-12 .col-md-4{
+    padding: 0px;
+}
+.clientmain h2{
+    padding-bottom: 70px;
+}
+.clientmain .col-md-4 .img-circle{
+    height: 180px;
+    width: 300px;
+}
+.clientmain .col-md-4 p{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 17px;
+}
+.clientmain .col-md-4 h4:hover{
+    color: blue;
+    /* font-weight: 600; */
+}
+.contactmain h2{
+    padding-bottom: 70px; 
+}
+.contactmain .col-md-3 h4:hover{
+    color: blue;
+}
+.imgsdiv .col-md-12 .col-md-3{
+    margin: 20px;
+    /* padding-right: 20px; */
+  
+}
+/* .imgsdiv .col-md-12 .col-md-3:hover{
+    /* padding-right: 250px; */
+    /* padding-right: 20px; */
+    /* width: 350px; 
+    box-shadow: 10px 10px 5px #aaaaaa;
+} */
+.clientdiv h2{
+    padding-bottom: 70px;
+}
+.navbar-toggle{
+    
+    background: whitee;
+}
+.navbar-toggle .icon-bar{
+    background: blue;
+}
+.navbar-right li{
+    text-align: center;
+}
+
